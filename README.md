@@ -9,7 +9,7 @@ I'm a Freelance Fullstack Developer based in Stuttgart, Germany, and I'm current
   <br />
   I'm passionate about Design/Frontend and AI, sometimes I work on a some side projects in my spare time. 
   <br />
-  Feel free to reach out to me if you have any questions or want to connect -> [LinkedIn](https://www.linkedin.com/in/emil-hopf-8551721b9).
+  Feel free to reach out to me if you have any questions or want to connect -> <https://twitter.com/emilhopf>.
 </p>
 
 <p align="center">
