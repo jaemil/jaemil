@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**jaemil/jaemil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  👋 Hello! I'm <a href="https://www.findnlink.com/de/member/emil" target="_blank">Emil Hopf</a>
+</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  I'm currently working on Findnlink.com and as a Freelancer Fullstack Developer, based in Stuttgart Germany. 
+  I work on a whole range of side projects, some of which will be completed some won't.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="" alt="My Contributions Graph" />
+</p>
