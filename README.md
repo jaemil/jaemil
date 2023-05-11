@@ -10,5 +10,5 @@
 </p>
 
 <p align="center">
-  <img src="" alt="My Contributions Graph" />
+  <img src="https://jaemil.github.io/jaemil/github-contribution-snake.svg" alt="My Contributions Graph" />
 </p>
