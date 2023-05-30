@@ -7,7 +7,7 @@
 <p align="center">
 I'm a Freelance Fullstack Developer based in Stuttgart, Germany, and I'm currently working on my own Idea -> <a href="https://findnlink.com">Findnlink</a>. 
   <br />
-  I'm passionate about Design Frontend and AI, sometimes I work on a some side projects in my spare time. 
+  I'm passionate about Design, Frontend and AI.
   <br />
   <br />
   Feel free to reach out to me if you have any questions or want to connect -> <a href="https://twitter.com/emilhopf">Twitter</a>.
