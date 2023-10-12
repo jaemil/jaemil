@@ -1,7 +1,5 @@
-
-
 <h1 align="center">
-  👋 Hello! I'm <a href="https://www.findnlink.com/de/member/emil" target="_blank">Emil Hopf</a>
+  👋 Hello! I'm <a href="https://www.findnlink.com/de/member/emil" target="_blank">Emil</a>
 </h1>
 
 <p align="center">
@@ -11,8 +9,4 @@ I'm a Freelance Fullstack Developer based in Stuttgart, Germany, and I'm current
   <br />
   <br />
   Feel free to reach out to me if you have any questions or want to connect -> <a href="https://twitter.com/emilhopf">Twitter</a>.
-</p>
-
-<p align="center">
-  <img src="https://github.com/jaemil/jaemil/blob/output/github-contribution-snake.svg" alt="My Contributions Graph" />
 </p>
