@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-I'm a Freelance Fullstack Developer based in Stuttgart, Germany, and I'm currently working on my own Idea -> <a href="https://findnlink.com">Findnlink</a>. 
+I'm a Freelance Fullstack Developer based in Stuttgart, Germany, I'm currently working on -> <a href="https://findnlink.com">Findnlink</a>. 
   <br />
   I'm passionate about Design, Frontend and AI.
   <br />
