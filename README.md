@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-I'm a Freelance Fullstack Developer based in Stuttgart, Germany, I'm currently working on -> <a href="https://yomelo.de">Yomelo</a>
+I'm a Fullstack Developer based in Stuttgart, Germany, I'm currently working on -> <a href="https://yomelo.de">Yomelo</a>
   <br />
   I'm passionate about Design, Frontend and AI.
   <br />
